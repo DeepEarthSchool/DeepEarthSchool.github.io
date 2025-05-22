@@ -4,19 +4,21 @@
 
 ## Preliminary Program
 
-**Opening seminar** \| [Denis Andrault](LMV)
+**Opening seminar** \| [TBD]
 
-**Geochemistry** \|  [Ingrid Blanchard](IPGP), [Andreas Stracke](Institut fuer Mineralogie)
+**Geology** \|  [Laurence Audin](IRD, ISTerre)
 
-**Mineralogy** \|  [Carmen Sanchez], [Marta Pamato](Uni. of Padua)
+**Archeo/Paleo-seismicity** \|  [Stéphane Baize](ASNR), [Nicolas Cathelin](Géosciences Montpellier)
 
-**Planetolgy** \|  [Doris Breuer](DLR), [Guillaume Morard]
+**Erosion** \|  [Pauline Delorme](ENS Paris)
 
-**Seismology** \| [Amir Khan](ETH Zurich), [Arwen Deuss](Uni. of Utrecht)
+**Planetolgy** \|  [Martin Guitreau](LMV), [Ana-Catalina Plesa](DLR, Germany)
 
-**Mantle Dynamics** \|  [Juliane Dannberg](GEOMAR), [Maelis Arnould](LGL-TPE)
+**Seismic Hazard** \|  [Ona Scoti ](IRSN)
 
-**Core Dynamics** \|  [Nicolas Gillet](ISTerre), [Johannes Wicht](Max-Planck Institut)
+**Lithosphere Dynamics** \|  [Jean-Arthur Olive](ENS Paris) (TBC)
+
+**Geodesy** \|  [Marianne Métois](LGL-TPE) (TBC)
 
 
 ![planning](/docs/assets/images/planning.png)
