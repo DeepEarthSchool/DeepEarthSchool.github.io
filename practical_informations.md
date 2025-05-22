@@ -13,5 +13,5 @@ The doctoral school will take place at [Le domaine Lou Capitelle](https://www.lo
   - A field trip is organized so please bring shoes that you can hike with, and clothes for going outside including rain clothes.
 
 
-- The school's fees will be between 500-700 euros depending on the number of participants. The final costs will be fixed mid-september. The fees include food and housing for the week.
+- The school's fees will be between 300-700 euros depending on the number of participants. The final costs will be fixed mid-september. The fees include food and housing for the week.
 
