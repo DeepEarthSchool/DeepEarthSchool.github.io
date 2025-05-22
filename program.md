@@ -20,5 +20,6 @@
 
 **Geodesy** \|  [Marianne Métois](https://perso.univ-lyon1.fr/marianne.metois/) (LGL-TPE) (TBC)
 
+Preliminary Schedule
 
-![planning](/docs/assets/images/planning.png)
+![planning](/docs/assets/images/program.png)
