@@ -4,6 +4,8 @@
 
 ## Practical Informations
 
+The doctoral school will take place at "Le domaine Lou Capitelle", Vögue, France.
+
 - With respect to the program
 
   - there will be poster sessions in the evenings so please come with a printed poster. And also prepare one slide  introducing, in 3 minutes, not more, your topic and your poster.
