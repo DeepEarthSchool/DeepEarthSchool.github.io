@@ -8,7 +8,7 @@
 
 **Geology** \|  [Laurence Audin](https://www.isterre.fr/annuaire/pages-web-du-personnel/laurence-audin/) (IRD ISTerre)
 
-**Archeo/Paleo-seismicity** \|  [Stéphane Baize](https://sites.google.com/site/baizestephane/) (ASNR), [Nicolas Cathelin](Géosciences Montpellier)
+**Archeo/Paleo-seismicity** \|  [Stéphane Baize](https://sites.google.com/site/baizestephane/) (ASNR), Nicolas Cathelin (Géosciences Montpellier)
 
 **Erosion** \|  [Pauline Delorme](https://scholar.google.fr/citations?user=3-0q1KAAAAAJ&hl=fr) (ENS Paris)
 
