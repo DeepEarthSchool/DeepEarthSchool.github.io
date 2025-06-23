@@ -26,17 +26,30 @@ Finally, a day of excursion will be organized. Participants will discover the mo
 segments, their structural imprints, and the traces left at the ground surface by Quaternary tectonic deformations (specifically during
 a visit to two paleoseismological trenches (re)opened for the opportunity).
 
+![test](/docs/assets/images/PicBaize.pgg)
+
 **Erosion and lanscape dynamics** \|  [Pauline Delorme](https://scholar.google.fr/citations?user=3-0q1KAAAAAJ&hl=fr) (ENS Paris)
 
 This course offers an introduction to the dynamic processes shaping Earth's landscapes, with a focus on the principles of geomorphology. We start by examining erosion, a fundamental process where natural forces such as water, wind, ice, and gravity break down soil and rock, setting the stage for landscape transformation. This section covers both mechanical and chemical weathering, illustrating how these processes prepare materials for transport. Moving to the transport phase, we investigate how eroded materials are carried across diverse terrains, driven by key physical principles that govern sediment movement. This phase links the initial breakdown of materials to their eventual deposition, emphasizing the pathways they follow. Finally, we study sedimentation, where transported materials settle in environments like rivers, lakes, and oceans, forming sedimentary rocks that archive Earth's history. Throughout the course, the "source-to-sink" concept guides our understanding, tracing sediment's journey from origin to destination and highlighting the interconnectedness of each phase.
 
 ![test](/docs/assets/images/PicDelorme.jpg)
 
-**Planetolgy** \|  [Martin Guitreau](https://lmv.uca.fr/guitreau-martin/) (LMV), [Ana-Catalina Plesa](https://scholar.google.de/citations?user=2Qd8ploAAAAJ&hl=de) (DLR, Germany)
+**Planetolgy** \| 
+[Martin Guitreau](https://lmv.uca.fr/guitreau-martin/) (LMV)
+
+My teaching in this doctorate school of Solid Earth will cover two major topics which are (1) the age(s) of planetary materials and timescales of planetary differentiation, and (2) the nature of planetary materials and their petrogenesis. The first course will provide attendees with an overview of various geochronological tools that can be applied to the study of planetary objects with an emphasis on the fundamentals of these tools as well as some major results. The second course will discuss the mechanisms of formation and evolution of planetary bodies, which includes the formation of their crusts. Specific focus will be made on the petrological and geochemical toolbox that the geological community uses to study planets and the Earth. Finally, a research seminar will discuss the formation of the early terrestrial crust and compare it to extra-terrestrial crusts of the Solar System with the goal to assess planet habitability.
+
+![test](/docs/assets/images/PicGuitreau.png)
+
+[Ana-Catalina Plesa](https://scholar.google.de/citations?user=2Qd8ploAAAAJ&hl=de) (DLR, Germany)
 
 **Seismic Hazard** \|  [Oona Scotti](https://www.researchgate.net/profile/Oona-Scotti) (IRSN)
 
 **Lithosphere Dynamics** \|  [Jean-Arthur Olive](https://jaolive.weebly.com/) (ENS Paris) (TBC)
+
+The lithosphere is Earth’s outermost layer that can withstand significant differential stresses and localize deformation. In this short course, I will provide a quantitative overview of the lithosphere’s visco-elasto-plastic and strain-localizing properties. The second part of the course will illustrate how these properties enable Plate Tectonics, and profoundly shape the architecture and evolution of major plate boundaries such as rifts, mid-ocean ridges, subduction and collision zones. Lastly, depending on available time and interest, we will discuss advanced research topics in lithosphere dynamics such as feedbacks between deformation and surface processes, or links between seismic cycles and geological deformation.
+
+![test](/docs/assets/images/PicJAO.png)
 
 **Geodesy** \|  [Marianne Métois](https://perso.univ-lyon1.fr/marianne.metois/) (LGL-TPE) (TBC)
 
