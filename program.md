@@ -2,7 +2,11 @@
 
 ---
 
-## Preliminary Program
+##  Program
+
+Preliminary Schedule
+
+![planning](/docs/assets/images/program.png)
 
 **Opening seminar** \| [TBD]
 
@@ -53,6 +57,4 @@ The lithosphere is Earth’s outermost layer that can withstand significant diff
 
 **Geodesy** \|  [Marianne Métois](https://perso.univ-lyon1.fr/marianne.metois/) (LGL-TPE) (TBC)
 
-Preliminary Schedule
 
-![planning](/docs/assets/images/program.png)
