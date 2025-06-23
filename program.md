@@ -49,6 +49,33 @@ My teaching in this doctorate school of Solid Earth will cover two major topics 
 
 **Seismic Hazard** \|  [Oona Scotti](https://www.researchgate.net/profile/Oona-Scotti) (IRSN)
 
+<b>Course Objectives:</b>
+
+Provide students with  basic concepts related to earthquake hazard assessment through practal excercises. The course encompasses basic information on the input data, methods and concepts necessary to compute probabilistic and deterministic hazard analysis.	
+
+<b>Course Content:</b>
+<ul>
+<li>Characterizing earthquake potential of seismogenic sources(volumetric source and fault sources)</li>
+<ul>
+      <li> Earthquake catalogues (Historical and Instrumental, Intensity versus Magnitude)</li>
+      <li> Faults (Paleoseismology, Scaling Laws)</li>
+</ul>
+<li>Predicting ground motion for sepcific scenarios and sites</li>
+<ul>
+       <li> Attenuation of ground motion (Intensity measures)</li>
+       <li> Site effects</li>
+</ul>      
+<li>Deterministic seismic hazard(Maximum considered earthquake)	</li>
+
+<li>Probabilistic seismic hazard (Gutenberg-Richter, Probability of Exceedance of an intensity measure)	</li>
+</ul>
+
+<b>Code Prerequisit:</b> Matlab, Python, Excel, QGIS
+
+[Online ressources](https://sites.google.com/site/pshabook/resources)
+
+![test](/docs/assets/images/PicScotti.png)
+
 **Lithosphere Dynamics** \|  [Jean-Arthur Olive](https://jaolive.weebly.com/) (ENS Paris) (TBC)
 
 The lithosphere is Earth’s outermost layer that can withstand significant differential stresses and localize deformation. In this short course, I will provide a quantitative overview of the lithosphere’s visco-elasto-plastic and strain-localizing properties. The second part of the course will illustrate how these properties enable Plate Tectonics, and profoundly shape the architecture and evolution of major plate boundaries such as rifts, mid-ocean ridges, subduction and collision zones. Lastly, depending on available time and interest, we will discuss advanced research topics in lithosphere dynamics such as feedbacks between deformation and surface processes, or links between seismic cycles and geological deformation.
