@@ -30,7 +30,7 @@ Finally, a day of excursion will be organized. Participants will discover the mo
 segments, their structural imprints, and the traces left at the ground surface by Quaternary tectonic deformations (specifically during
 a visit to two paleoseismological trenches (re)opened for the opportunity).
 
-![test](/docs/assets/images/PicBaize.pgg)
+![test](/docs/assets/images/PicBaize.png)
 
 **Erosion and lanscape dynamics** \|  [Pauline Delorme](https://scholar.google.fr/citations?user=3-0q1KAAAAAJ&hl=fr) (ENS Paris)
 
