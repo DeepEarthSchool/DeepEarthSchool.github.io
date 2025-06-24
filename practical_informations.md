@@ -4,7 +4,7 @@
 
 ## Practical Informations
 
-The doctoral school will take place at [Le domaine Lou Capitelle](https://www.loucapitelle.com/), Vögue, France.
+The doctoral school will take place at [Le domaine Lou Capitelle](https://www.loucapitelle.com/), Vogüé, France.
 
 - With respect to the program
 
