@@ -82,6 +82,8 @@ The lithosphere is Earth’s outermost layer that can withstand significant diff
 
 ![test](/docs/assets/images/PicJAO.png)
 
-**Geodesy** \|  [Marianne Métois](https://perso.univ-lyon1.fr/marianne.metois/) (LGL-TPE) (TBC)
+**Geodesy: Tracking Earth deformation due to geophysical processes** \|  [Marianne Métois](https://perso.univ-lyon1.fr/marianne.metois/) (LGL-TPE) (TBC)
 
+In this short course, we will explore how tracking the Earth’s surface deformation can help understanding the physical processes at play in the lithosphere, with a specific focus on the seismic cycle. We will see the basic concepts of triangulation, GNSS, InSAR, optical correlation methods, that help tracking surface changes on short time scales, from second to tens of years, and bring unique insights on fault and lithosphere physics. We will review the limitations of the current day methods, together with the most recent progresses (e.g. InSAR time series, high rate GNSS). The practical will be dedicated to elastic modeling of slip and coupling on plate boundaries from surface velocity maps and velocity fields.
 
+![test](/docs/assets/images/PicMetois.jpg)
