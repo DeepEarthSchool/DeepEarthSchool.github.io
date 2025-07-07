@@ -10,7 +10,7 @@ Preliminary Schedule
 
 **Opening seminar** \| [TBD]
 
-**Active Testonics** \|  [Laurence Audin](https://www.isterre.fr/annuaire/pages-web-du-personnel/laurence-audin/) (IRD ISTerre)
+**Active Tectonics** \|  [Laurence Audin](https://www.isterre.fr/annuaire/pages-web-du-personnel/laurence-audin/) (IRD ISTerre)
 
 Active tectonics is the study of plate deformation processes occurring at the present day. The ambitious task is to investigate how the motions of the plates are accommodated by local to regional faults on the edges and interiors of continents, and in so doing develop an understanding of the processes involved in continental deformation at different time scales from the million years to the second, and at different spatial scales, from the Mountain ranges to the fault scarp. Such understanding allow to characterize the faults among other seismic sources, and aims to provide parameters for seismic hazard assessment using various complementary datasets, such as space geodesy (InSAR and GPS), satellite or drone remote sensing, geomorphology, paleo and archeo seismology and field geology.
 
@@ -38,7 +38,7 @@ This course offers an introduction to the dynamic processes shaping Earth's land
 
 ![test](/docs/assets/images/PicDelorme.jpg)
 
-**Planetolgy** \| 
+**Planetology** \| 
 [Martin Guitreau](https://lmv.uca.fr/guitreau-martin/) (LMV)
 
 My teaching in this doctorate school of Solid Earth will cover two major topics which are (1) the age(s) of planetary materials and timescales of planetary differentiation, and (2) the nature of planetary materials and their petrogenesis. The first course will provide attendees with an overview of various geochronological tools that can be applied to the study of planetary objects with an emphasis on the fundamentals of these tools as well as some major results. The second course will discuss the mechanisms of formation and evolution of planetary bodies, which includes the formation of their crusts. Specific focus will be made on the petrological and geochemical toolbox that the geological community uses to study planets and the Earth. Finally, a research seminar will discuss the formation of the early terrestrial crust and compare it to extra-terrestrial crusts of the Solar System with the goal to assess planet habitability.
