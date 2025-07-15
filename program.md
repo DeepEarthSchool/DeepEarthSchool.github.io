@@ -47,6 +47,15 @@ My teaching in this doctorate school of Solid Earth will cover two major topics 
 
 [Ana-Catalina Plesa](https://scholar.google.de/citations?user=2Qd8ploAAAAJ&hl=de) (DLR, Germany)
 
+Understanding the interior of rocky planets such as Mercury, the Moon, Mars, and Venus helps us to put the Earth in a global planetary context. The surfaces of terrestrial planets that we observe today record billions of years or evolution and interior processes and can help us to reconstruct the interior history of such planets. Geological and geophysical data of rocky planets in our Solar System have dramatically advanced our understanding of the interior structure and thermal evolution of these bodies.
+
+Over the past decades, large-scale numerical simulations of interior evolution have grown to become one of the most powerful approaches to model the interior of planetary bodies in our Solar System and beyond. Geodynamic models are used to investigate the evolution and distribution of the interior temperature that ultimately affects the distribution of seismic velocities, surface heat flow, and partial melting of the mantle. Combined with constraints derived from planetary mission data and laboratory experiments, these models help us to improve our understanding of the history and present-day thermal state of planetary interiors.
+
+During the doctorate school I will cover the thermal evolution of the interior of terrestrial planets in our Solar System from their earliest stage to the present day. The students will learn how global scale geodynamical models can be applied to model the interior history of rocky planets. During the lectures, we will discuss how these models can be combined with data from orbiters and landed missions in order to improve our understanding of rocky planets’ interiors. The research seminar will discuss about main open questions in understanding planetary evolution of Mercury, Venus, the Moon, and Mars, and how future missions will help us to address them.
+
+![test](/docs/assets/images/PicPlesa.png)
+
+
 **Seismic Hazard** \|  [Oona Scotti](https://www.researchgate.net/profile/Oona-Scotti) (IRSN)
 
 <b>Course Objectives:</b>
