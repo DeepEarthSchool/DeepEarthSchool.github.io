@@ -4,7 +4,7 @@ ___
 
 ## Registration
 
-To register, please send an email with a short motivation letter  to all members of the organizing committee before August 31th 2025.
+To register, please send an email with a short motivation letter  to all members of the organizing committee before September 30th 2025.
 
 Cédric Twardzic \| [cedric.twardzik@geoazur.unice.fr](cedric.twardzik@geoazur.unice.fr)
 
