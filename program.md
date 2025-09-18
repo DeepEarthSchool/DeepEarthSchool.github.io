@@ -8,7 +8,7 @@ Preliminary Schedule
 
 ![planning](/docs/assets/images/program.png)
 
-**Opening seminar** \| [TBD]
+**Opening seminar** \| [Quentin Bletery](https://univ-cotedazur.fr/recherche-innovation/structures-de-recherche/academies-dexcellence/academie-2/recherche/zoom-sur-des-chercheurs/interview-de-quentin-bletery-charge-de-recherche-ird-a-geoazur) (IRD GéoAzur)
 
 **Active Tectonics** \|  [Laurence Audin](https://www.isterre.fr/annuaire/pages-web-du-personnel/laurence-audin/) (IRD ISTerre)
 
