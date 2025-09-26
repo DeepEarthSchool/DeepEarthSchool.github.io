@@ -10,6 +10,8 @@ Preliminary Schedule
 
 **Opening seminar: Foreseeing earthquakes with deep learning** \| [Quentin Bletery](https://univ-cotedazur.fr/recherche-innovation/structures-de-recherche/academies-dexcellence/academie-2/recherche/zoom-sur-des-chercheurs/interview-de-quentin-bletery-charge-de-recherche-ird-a-geoazur) (IRD GéoAzur)
 
+Predicting earthquakes is one of the oldest challenge making has faced. To this day, we do not know how to predict these catastrophic events. Earthquake early warning (EEW) systems exist but they only use data recorded after the earthquake initiated, providing a few seconds of warning at best before the strongest shakings. Moreover, those systems systematically underestimate the magnitude of the largest events, which has dramatic consequences for tsunami forecast. We will see how deep learning algorithms can leverage standard (P waves) and exotic (prompt least-gravity signals) ground motion records to make EEW faster and more reliable. We will also question the impossibility of earthquake prediction based on recent observations and given the deep learning tools available today.
+
 ![test](/docs/assets/images/PicBletery.png)
 
 **Active Tectonics** \|  [Laurence Audin](https://www.isterre.fr/annuaire/pages-web-du-personnel/laurence-audin/) (IRD ISTerre)
