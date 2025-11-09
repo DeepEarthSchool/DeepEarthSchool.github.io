@@ -6,7 +6,7 @@
 
 Preliminary Schedule
 
-![planning](/docs/assets/images/program.png)
+![planning](/docs/assets/images/program_last.png)
 
 **Opening seminar: Foreseeing earthquakes with deep learning** \| [Quentin Bletery](https://univ-cotedazur.fr/recherche-innovation/structures-de-recherche/academies-dexcellence/academie-2/recherche/zoom-sur-des-chercheurs/interview-de-quentin-bletery-charge-de-recherche-ird-a-geoazur) (IRD GéoAzur)
 
@@ -17,6 +17,8 @@ Predicting earthquakes is one of the oldest challenge making has faced. To this 
 **Active Tectonics** \|  [Laurence Audin](https://www.isterre.fr/annuaire/pages-web-du-personnel/laurence-audin/) (IRD ISTerre)
 
 Active tectonics is the study of plate deformation processes occurring at the present day. The ambitious task is to investigate how the motions of the plates are accommodated by local to regional faults on the edges and interiors of continents, and in so doing develop an understanding of the processes involved in continental deformation at different time scales from the million years to the second, and at different spatial scales, from the Mountain ranges to the fault scarp. Such understanding allow to characterize the faults among other seismic sources, and aims to provide parameters for seismic hazard assessment using various complementary datasets, such as space geodesy (InSAR and GPS), satellite or drone remote sensing, geomorphology, paleo and archeo seismology and field geology.
+
+![test](/docs/assets/images/Graph_Abs.png)
 
 **Active tectonics, in Metropolitan France and neighboring areas** \|  [Stéphane Baize](https://sites.google.com/site/baizestephane/) (ASNR), Nicolas Cathelin (Géosciences Montpellier)
 
@@ -89,13 +91,13 @@ Provide students with  basic concepts related to earthquake hazard assessment th
 
 ![test](/docs/assets/images/PicScotti.png)
 
-**Lithosphere Dynamics** \|  [Jean-Arthur Olive](https://jaolive.weebly.com/) (ENS Paris) (TBC)
+**Lithosphere Dynamics** \|  [Jean-Arthur Olive](https://jaolive.weebly.com/) (ENS Paris)
 
 The lithosphere is Earth’s outermost layer that can withstand significant differential stresses and localize deformation. In this short course, I will provide a quantitative overview of the lithosphere’s visco-elasto-plastic and strain-localizing properties. The second part of the course will illustrate how these properties enable Plate Tectonics, and profoundly shape the architecture and evolution of major plate boundaries such as rifts, mid-ocean ridges, subduction and collision zones. Lastly, depending on available time and interest, we will discuss advanced research topics in lithosphere dynamics such as feedbacks between deformation and surface processes, or links between seismic cycles and geological deformation.
 
 ![test](/docs/assets/images/PicJAO.png)
 
-**Geodesy: Tracking Earth deformation due to geophysical processes** \|  [Marianne Métois](https://perso.univ-lyon1.fr/marianne.metois/) (LGL-TPE) (TBC)
+**Geodesy: Tracking Earth deformation due to geophysical processes** \|  [Marianne Métois](https://perso.univ-lyon1.fr/marianne.metois/) (LGL-TPE) 
 
 In this short course, we will explore how tracking the Earth’s surface deformation can help understanding the physical processes at play in the lithosphere, with a specific focus on the seismic cycle. We will see the basic concepts of triangulation, GNSS, InSAR, optical correlation methods, that help tracking surface changes on short time scales, from second to tens of years, and bring unique insights on fault and lithosphere physics. We will review the limitations of the current day methods, together with the most recent progresses (e.g. InSAR time series, high rate GNSS). The practical will be dedicated to elastic modeling of slip and coupling on plate boundaries from surface velocity maps and velocity fields.
 
