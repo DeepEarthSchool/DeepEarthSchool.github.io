@@ -9,6 +9,6 @@ This doctoral school trains PhD and Master students by covering most aspects of 
 Registration deadline September 30th 2025.
 
 
-![test](/docs/assets/images/logo.png)
+![test](/docs/assets/images/logo_last.png)
 
 
