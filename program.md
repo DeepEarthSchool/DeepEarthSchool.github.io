@@ -4,101 +4,36 @@
 
 ##  Program
 
-Preliminary Schedule
+Preliminary Schedule will come soon
 
-![planning](/docs/assets/images/program_last.png)
+**Opening seminar** \| [Philippe Cardin](https://www.isterre.fr/annuaire/pages-web-du-personnel/philippe-cardin/article/curriculum-vitae.html) (ISTerre, Grenoble, France)
 
-**Opening seminar: Foreseeing earthquakes with deep learning** \| [Quentin Bletery](https://univ-cotedazur.fr/recherche-innovation/structures-de-recherche/academies-dexcellence/academie-2/recherche/zoom-sur-des-chercheurs/interview-de-quentin-bletery-charge-de-recherche-ird-a-geoazur) (IRD GéoAzur)
+**Deep Earth imaging** \|  
 
-Predicting earthquakes is one of the oldest challenge making has faced. To this day, we do not know how to predict these catastrophic events. Earthquake early warning (EEW) systems exist but they only use data recorded after the earthquake initiated, providing a few seconds of warning at best before the strongest shakings. Moreover, those systems systematically underestimate the magnitude of the largest events, which has dramatic consequences for tsunami forecast. We will see how deep learning algorithms can leverage standard (P waves) and exotic (prompt least-gravity signals) ground motion records to make EEW faster and more reliable. We will also question the impossibility of earthquake prediction based on recent observations and given the deep learning tools available today.
+[Paula Koelemeijer](https://users.ox.ac.uk/~univ4152/index.html) (university of Oxford, UK)
 
-![test](/docs/assets/images/PicBletery.png)
+[Thomas Bodin](https://www.icm.csic.es/en/staff/thomas-bodin-4899) (ICM, Barcelona, Spain)
 
-**Active Tectonics** \|  [Laurence Audin](https://www.isterre.fr/annuaire/pages-web-du-personnel/laurence-audin/) (IRD ISTerre)
+**Mantle dynamics** \|  
 
-Active tectonics is the study of plate deformation processes occurring at the present day. The ambitious task is to investigate how the motions of the plates are accommodated by local to regional faults on the edges and interiors of continents, and in so doing develop an understanding of the processes involved in continental deformation at different time scales from the million years to the second, and at different spatial scales, from the Mountain ranges to the fault scarp. Such understanding allow to characterize the faults among other seismic sources, and aims to provide parameters for seismic hazard assessment using various complementary datasets, such as space geodesy (InSAR and GPS), satellite or drone remote sensing, geomorphology, paleo and archeo seismology and field geology.
+[Julien Monteux](https://lmv.uca.fr/monteux-julien/) (LMV, Clermont-Ferrand, France)
 
-![test](/docs/assets/images/Graph_Abs.png)
+[Maxime Maurice](https://lmv.uca.fr/maurice-maxime/) (LMV, Clermont-Ferrand, France)
 
-**Active tectonics, in Metropolitan France and neighboring areas** \|  [Stéphane Baize](https://sites.google.com/site/baizestephane/) (ASNR), Nicolas Cathelin (Géosciences Montpellier)
+**Core dynamics** \|  
 
-This part of the course is divided into three sections. It will deal with examples of faults showing evidence of recent to current
-activity. After the introduction on active tectonics by L. Audin, it will focus on more local objects and topics.
-The first section, led in-class by S. Baize (1 hour), will allow students to become familiar with recent and active tectonics in
-metropolitan France, part of the vast intraplate region of Western Europe. This overview will include illustrations of current
-(instrumental) seismicity, evidence of historical and ancient seismicity, as well as indicators of paleoseismicity.
-Next, N. Cathelin (1 hour in class) will specifically present the faults surrounding the epicentral area of the Le Teil earthquake
-(magnitude 4.9, on November 11, 2019), which was triggered by a fault segment belonging to the Cévennes fault system. After
-several years of work, the community now has a better understanding of these active geological structures, whether concerning
-their deep geometry, surface segmentation, or their Quaternary activity. Documentation will be provided to students so they can
-propose inputs to the hazard models that will be discussed by O. Scotti in her own lectures and exercises.
-Finally, a day of excursion will be organized. Participants will discover the morphological signatures of several Cévennes fault
-segments, their structural imprints, and the traces left at the ground surface by Quaternary tectonic deformations (specifically during
-a visit to two paleoseismological trenches (re)opened for the opportunity).
+[Thierry Alboussière](https://perso.ens-lyon.fr/thierry.alboussiere/) (LGL-TPE, Lyon, France)
 
-![test](/docs/assets/images/PicBaize.png)
+[Philippe Cardin](https://www.isterre.fr/annuaire/pages-web-du-personnel/philippe-cardin/article/curriculum-vitae.html) (ISTerre, Grenoble, France)
 
-**Erosion and lanscape dynamics** \|  [Pauline Delorme](https://scholar.google.fr/citations?user=3-0q1KAAAAAJ&hl=fr) (ENS Paris)
+**Planetology** \|  
 
-This course offers an introduction to the dynamic processes shaping Earth's landscapes, with a focus on the principles of geomorphology. We start by examining erosion, a fundamental process where natural forces such as water, wind, ice, and gravity break down soil and rock, setting the stage for landscape transformation. This section covers both mechanical and chemical weathering, illustrating how these processes prepare materials for transport. Moving to the transport phase, we investigate how eroded materials are carried across diverse terrains, driven by key physical principles that govern sediment movement. This phase links the initial breakdown of materials to their eventual deposition, emphasizing the pathways they follow. Finally, we study sedimentation, where transported materials settle in environments like rivers, lakes, and oceans, forming sedimentary rocks that archive Earth's history. Throughout the course, the "source-to-sink" concept guides our understanding, tracing sediment's journey from origin to destination and highlighting the interconnectedness of each phase.
+[Mathieu Bouffard](https://www.univ-nantes.fr/mathieu-bouffard) (LPG, Nantes, France)
 
-![test](/docs/assets/images/PicDelorme.jpg)
+[Olivier Namur](https://scholar.google.co.uk/citations?user=YS3gTn4AAAAJ&hl=fr) (KU Leuven, Belgium)
 
-**Planetology** \| 
-[Martin Guitreau](https://lmv.uca.fr/guitreau-martin/) (LMV)
+**Mineralogy** \| [Johannes Buchen](https://www.bgi.uni-bayreuth.de/?page=4&lng=en&mode=s&id=388) (BGI, Bayreuth, Germany)
 
-My teaching in this doctorate school of Solid Earth will cover two major topics which are (1) the age(s) of planetary materials and timescales of planetary differentiation, and (2) the nature of planetary materials and their petrogenesis. The first course will provide attendees with an overview of various geochronological tools that can be applied to the study of planetary objects with an emphasis on the fundamentals of these tools as well as some major results. The second course will discuss the mechanisms of formation and evolution of planetary bodies, which includes the formation of their crusts. Specific focus will be made on the petrological and geochemical toolbox that the geological community uses to study planets and the Earth. Finally, a research seminar will discuss the formation of the early terrestrial crust and compare it to extra-terrestrial crusts of the Solar System with the goal to assess planet habitability.
+**Geochemistry** \|  [Adrien Vezinet](https://scholar.google.com/citations?user=4VD_J64AAAAJ&hl=en) (ISTerre, Grenoble, France)
 
-![test](/docs/assets/images/PicGuitreau.png)
-
-[Ana-Catalina Plesa](https://scholar.google.de/citations?user=2Qd8ploAAAAJ&hl=de) (DLR, Germany)
-
-Understanding the interior of rocky planets such as Mercury, the Moon, Mars, and Venus helps us to put the Earth in a global planetary context. The surfaces of terrestrial planets that we observe today record billions of years or evolution and interior processes and can help us to reconstruct the interior history of such planets. Geological and geophysical data of rocky planets in our Solar System have dramatically advanced our understanding of the interior structure and thermal evolution of these bodies.
-
-Over the past decades, large-scale numerical simulations of interior evolution have grown to become one of the most powerful approaches to model the interior of planetary bodies in our Solar System and beyond. Geodynamic models are used to investigate the evolution and distribution of the interior temperature that ultimately affects the distribution of seismic velocities, surface heat flow, and partial melting of the mantle. Combined with constraints derived from planetary mission data and laboratory experiments, these models help us to improve our understanding of the history and present-day thermal state of planetary interiors.
-
-During the doctorate school I will cover the thermal evolution of the interior of terrestrial planets in our Solar System from their earliest stage to the present day. The students will learn how global scale geodynamical models can be applied to model the interior history of rocky planets. During the lectures, we will discuss how these models can be combined with data from orbiters and landed missions in order to improve our understanding of rocky planets’ interiors. The research seminar will discuss about main open questions in understanding planetary evolution of Mercury, Venus, the Moon, and Mars, and how future missions will help us to address them.
-
-![test](/docs/assets/images/PicPlesa.png)
-
-
-**Seismic Hazard** \|  [Oona Scotti](https://www.researchgate.net/profile/Oona-Scotti) (IRSN)
-
-<b>Course Objectives:</b>
-
-Provide students with  basic concepts related to earthquake hazard assessment through practal excercises. The course encompasses basic information on the input data, methods and concepts necessary to compute probabilistic and deterministic hazard analysis.	
-
-<b>Course Content:</b>
-<ul>
-<li>Characterizing earthquake potential of seismogenic sources(volumetric source and fault sources)</li>
-<ul>
-      <li> Earthquake catalogues (Historical and Instrumental, Intensity versus Magnitude)</li>
-      <li> Faults (Paleoseismology, Scaling Laws)</li>
-</ul>
-<li>Predicting ground motion for sepcific scenarios and sites</li>
-<ul>
-       <li> Attenuation of ground motion (Intensity measures)</li>
-       <li> Site effects</li>
-</ul>      
-<li>Deterministic seismic hazard(Maximum considered earthquake)	</li>
-
-<li>Probabilistic seismic hazard (Gutenberg-Richter, Probability of Exceedance of an intensity measure)	</li>
-</ul>
-
-<b>Code Prerequisit:</b> Matlab, Python, Excel, QGIS
-
-[Online ressources](https://sites.google.com/site/pshabook/resources)
-
-![test](/docs/assets/images/PicScotti.png)
-
-**Lithosphere Dynamics** \|  [Jean-Arthur Olive](https://jaolive.weebly.com/) (ENS Paris)
-
-The lithosphere is Earth’s outermost layer that can withstand significant differential stresses and localize deformation. In this short course, I will provide a quantitative overview of the lithosphere’s visco-elasto-plastic and strain-localizing properties. The second part of the course will illustrate how these properties enable Plate Tectonics, and profoundly shape the architecture and evolution of major plate boundaries such as rifts, mid-ocean ridges, subduction and collision zones. Lastly, depending on available time and interest, we will discuss advanced research topics in lithosphere dynamics such as feedbacks between deformation and surface processes, or links between seismic cycles and geological deformation.
-
-![test](/docs/assets/images/PicJAO.png)
-
-**Geodesy: Tracking Earth deformation due to geophysical processes** \|  [Marianne Métois](https://perso.univ-lyon1.fr/marianne.metois/) (LGL-TPE) 
-
-In this short course, we will explore how tracking the Earth’s surface deformation can help understanding the physical processes at play in the lithosphere, with a specific focus on the seismic cycle. We will see the basic concepts of triangulation, GNSS, InSAR, optical correlation methods, that help tracking surface changes on short time scales, from second to tens of years, and bring unique insights on fault and lithosphere physics. We will review the limitations of the current day methods, together with the most recent progresses (e.g. InSAR time series, high rate GNSS). The practical will be dedicated to elastic modeling of slip and coupling on plate boundaries from surface velocity maps and velocity fields.
-
-![test](/docs/assets/images/PicMetois.jpg)
+**Fiel trip** \|  [Philippe Hervé Leloup](https://geologie.ens-lyon.fr/HERVE/) (LGL-TPE, Lyon France) 
