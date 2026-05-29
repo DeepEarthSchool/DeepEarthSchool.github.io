@@ -4,7 +4,7 @@
 
 ## Practical Informations
 
-The doctoral school will take place at [Le domaine Lou Capitelle](https://www.loucapitelle.com/), Vogüé, France.
+The doctoral school will take place at [Les Houches School of Physics]([https://www.loucapitelle.com/](https://www.houches-school-physics.com/ecole-de-physique-des-houches/home-ecole-les-houches-1066564.kjsp)), Les Houches, France.
 
 - With respect to the program
 
