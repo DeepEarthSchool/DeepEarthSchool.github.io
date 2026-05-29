@@ -4,7 +4,7 @@ ___
 
 ## Registration
 
-To register, please send an email with a short motivation letter  to all members of the organizing committee before August 31th 2026.
+To register, please send an email with a short motivation letter  to all members of the organizing committee before September 10th 2026.
 
 Guillaume Morard \| [guillaume.morard@cnrs.fr](guillaume.morard@cnrs.fr) 
 
