@@ -24,7 +24,7 @@ Preliminary Schedule will come soon
 
 [Thierry Alboussière](https://perso.ens-lyon.fr/thierry.alboussiere/) (LGL-TPE, Lyon, France)
 
-[Philippe Cardin](https://www.isterre.fr/annuaire/pages-web-du-personnel/philippe-cardin/article/curriculum-vitae.html) (ISTerre, Grenoble, France)
+[TBD]
 
 **Planetology** \|  
 
@@ -32,8 +32,16 @@ Preliminary Schedule will come soon
 
 [Olivier Namur](https://scholar.google.co.uk/citations?user=YS3gTn4AAAAJ&hl=fr) (KU Leuven, Belgium)
 
-**Mineralogy** \| [Johannes Buchen](https://www.bgi.uni-bayreuth.de/?page=4&lng=en&mode=s&id=388) (BGI, Bayreuth, Germany)
+**Mineralogy** \| 
 
-**Geochemistry** \|  [Adrien Vezinet](https://scholar.google.com/citations?user=4VD_J64AAAAJ&hl=en) (ISTerre, Grenoble, France)
+[Johannes Buchen](https://www.bgi.uni-bayreuth.de/?page=4&lng=en&mode=s&id=388) (BGI, Bayreuth, Germany)
+
+[TBD]
+
+**Geochemistry** \|  
+
+[Adrien Vezinet](https://scholar.google.com/citations?user=4VD_J64AAAAJ&hl=en) (ISTerre, Grenoble, France)
+
+[TBD]
 
 **Fiel trip** \|  [Philippe Hervé Leloup](https://geologie.ens-lyon.fr/HERVE/) (LGL-TPE, Lyon France) 
