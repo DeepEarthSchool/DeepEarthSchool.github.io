@@ -14,4 +14,4 @@ Julien Monteux \| [julien.monteux@uca.fr](julien.monteux@uca.fr)
 
 Carmen Sanchez \| [sanchezm@uni-muenster.de](sanchezm@uni-muenster.de)
 
-Stéphanie DURAND \| [stephanie.durand@ens-lyon.fr](stephanie.durand@ens-lyon.fr)
+Stéphanie Durand \| [stephanie.durand@ens-lyon.fr](stephanie.durand@ens-lyon.fr)
