@@ -24,7 +24,7 @@ Preliminary Schedule will come soon
 
 [Thierry Alboussière](https://perso.ens-lyon.fr/thierry.alboussiere/) (LGL-TPE, Lyon, France)
 
-[TBD]
+[Céline Guervilly](https://www.ncl.ac.uk/maths-physics/people/profile/celineguervilly.html) (New Castle University, UK)
 
 **Planetology** \|  
 
