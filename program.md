@@ -36,7 +36,7 @@ Preliminary Schedule will come soon
 
 [Johannes Buchen](https://www.bgi.uni-bayreuth.de/?page=4&lng=en&mode=s&id=388) (BGI, Bayreuth, Germany)
 
-[TBD]
+[Nathalie Bolfan-Casanova](https://lmv.uca.fr/bolfan-casanova-nathalie/) (LMV, Clermont-Ferrand, France)
 
 **Geochemistry** \|  
 
