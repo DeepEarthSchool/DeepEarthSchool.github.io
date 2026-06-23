@@ -30,7 +30,7 @@ Preliminary Schedule will come soon
 
 [Mathieu Bouffard](https://www.univ-nantes.fr/mathieu-bouffard) (LPG, Nantes, France)
 
-[Olivier Namur](https://scholar.google.co.uk/citations?user=YS3gTn4AAAAJ&hl=fr) (KU Leuven, Belgium)
+[TBD]
 
 **Mineralogy** \| 
 
@@ -42,6 +42,6 @@ Preliminary Schedule will come soon
 
 [Adrien Vezinet](https://scholar.google.com/citations?user=4VD_J64AAAAJ&hl=en) (ISTerre, Grenoble, France)
 
-[TBD]
+[Ambre Luguet](https://www.ifgeo.uni-bonn.de/en/institute/personregister/geochemistry_petrology-1/executive-director-and-professor-for-geochemistry/ambre-luguet) (Institut for Geosciences, Bonn, Germany)
 
 **Fiel trip** \|  [Philippe Hervé Leloup](https://geologie.ens-lyon.fr/HERVE/) (LGL-TPE, Lyon France) 
