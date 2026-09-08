@@ -4,6 +4,7 @@
 
 ##  Program
 
+![test](/docs/assets/images/Program2026.png)
 
 **Opening seminar** \| [Philippe Cardin](https://www.isterre.fr/annuaire/pages-web-du-personnel/philippe-cardin/article/curriculum-vitae.html) (ISTerre, Grenoble, France)
 
