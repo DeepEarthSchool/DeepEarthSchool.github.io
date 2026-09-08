@@ -4,7 +4,6 @@
 
 ##  Program
 
-Preliminary Schedule will come soon
 
 **Opening seminar** \| [Philippe Cardin](https://www.isterre.fr/annuaire/pages-web-du-personnel/philippe-cardin/article/curriculum-vitae.html) (ISTerre, Grenoble, France)
 
@@ -29,8 +28,6 @@ Preliminary Schedule will come soon
 **Planetology** \|  
 
 [Mathieu Bouffard](https://www.univ-nantes.fr/mathieu-bouffard) (LPG, Nantes, France)
-
-[TBD]
 
 **Mineralogy** \| 
 
